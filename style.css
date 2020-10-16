@@ -30,7 +30,7 @@ h1 {
   .neon{
     color: #FFD5FF;
     letter-spacing: 8px;
-    text-shadow: 1px 0px 4px #FFD5FF, 2px 0px 4px #FFD5FF, 3px 0px 4px #FFD5FF, 2px 0px 3px #2ED6A1, 2px 3px 15px #2ED6A1, 2px 0px 15px, 5px 0px 125px, 20px 0vw 200px #2ED6A1,40px 0vw 200px #2ED6A1;
+    text-shadow: 1px 0px 4px #eeeeee, 2px 0px 4px #eeeeee, 3px 0px 4px #eeeeee, 2px 0px 3px #2ED6A1, 2px 3px 15px #2ED6A1, 2px 0px 15px, 5px 0px 125px, 20px 0vw 200px #2ED6A1,40px 0vw 200px #2ED6A1;
   }
 
 section {
